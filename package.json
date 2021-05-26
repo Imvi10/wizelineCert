@@ -1,0 +1,16 @@
+{
+  "name": "challenge1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-all-chrome":"testcafe chrome pom/tests",
+    "test-all-safari":"testcafe safari pom/tests"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "testcafe": "^1.14.2"
+  }
+}
