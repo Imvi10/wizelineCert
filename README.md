@@ -14,4 +14,4 @@ test-all-chrome":"testcafe chrome pom/tests
 
 or
 
-est-all-safari":"testcafe safari pom/tests
+test-all-safari":"testcafe safari pom/tests
